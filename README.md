@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ajjla
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ajjla/ajjla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+https://app.snapchat.com/dmd/memories?uid=8e9e97f1-80f5-4154-a0c6-411de2e964ee&sid=218E0D28-3418-4BA9-B688-628872649EFB&mid=218E0D28-3418-4BA9-B688-628872649EFB&ts=1656197486594&proxy=true&sig=c644fc37baf5efd0fbdf530f491f82f0a4168845c676d5910e9be3c5e7c4b5ff
